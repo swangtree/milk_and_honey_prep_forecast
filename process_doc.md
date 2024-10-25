@@ -5,3 +5,4 @@ Hi! I just started working on this project officially a couple days ago, but I'v
 
 ## 10/7/24
 I created a mySQL instance on Google Cloud and I'm creating the tables, cleaning the data, and reformatting using Pandas Dataframes. I'm hoping to clean and aggregate the order data from the past 2 years and create a table for days (to track weather), weeks, and semesters by the time I'm done working today.
+In total, we have order data for 10,000+ orders, and the main challenges I'm facing are incomplete data for orders (many drinks have incomplete ice and sweetness levels) or incorrect order placements. I'm going to index names, although I may not use this because names are spelled differently across different days.
