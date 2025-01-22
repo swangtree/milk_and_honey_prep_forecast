@@ -1,6 +1,8 @@
 # Introduction
 *Made by Samuel Wang [(github.com/swangtree)](https://github.com/swangtree) for Milk and Honey cafe*
 
+To clean data run `data_preprocess.ipynb`
+
 # Front end:
 Need: data visualizations for most popular orders, most popular times of year, effects of weather, etc
 
@@ -12,13 +14,13 @@ SQL database w/ orders, weather, school day/week/semester, etc.
 Would be nice for database to automatically be updated from google sheets in live time or on refresh
 
 ## To do:
-- [ ] Data clean
-    - [ ] Explore raw data forms
-    - [ ] Identify data quality issues (missing values, inconsistencies)
-    - [ ] Standardize order names and ingredients
-    - [ ] Clean and format dates/times
-    - [ ] Handle outliers and anomalies
-    - [ ] Document data cleaning process
+- [x] Data clean
+    - [x] Explore raw data forms
+    - [x] Identify data quality issues (missing values, inconsistencies)
+    - [x] Standardize order names and ingredients
+    - [x] Clean and format dates/times
+    - [x] Handle outliers and anomalies
+    - [x] Document data cleaning process
 
 - [ ] Data exploration
     - [ ] Basic statistical analysis
